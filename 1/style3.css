@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+
+img{
+    width: 460px;
+    height: 250px;
+}
+body{
+    column-count: 3;
+    column-gap: 10px;
+}
+
